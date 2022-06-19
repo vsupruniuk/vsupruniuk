@@ -1,1 +1,2 @@
-
+| <a href="https://github.com/vsupruniuk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vsupruniuk&show_icons=true&include_all_commits=true&hide_border=true" alt="vsupruniuk's github stats" /></a> | <a href="https://github.com/vsupruniuk/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vsupruniuk&hide_border=true"/></a> |
+| ------------- | ------------- |
