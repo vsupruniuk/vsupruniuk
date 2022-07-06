@@ -8,7 +8,7 @@
 
 ### Contact me:
 
-[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="26px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/linkedin.svg" />][linkedin]
 <a href="mailto:vladsupruniuk@gmail.com"><img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/gmail.svg" /></a>
 [<img align="left" alt="Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/twitter.svg" />][twitter]
