@@ -27,7 +27,9 @@
 <img align="left" alt="HTML" width="26px" src="https://static-00.iconduck.com/assets.00/file-type-html-icon-451x512-vzyw6pa7.png" />
 <img align="left" alt="CSS" width="26px" src="https://static-00.iconduck.com/assets.00/file-type-css-icon-451x512-eftbqujz.png" />
 <img align="left" alt="SASS" width="26px" src="https://static-00.iconduck.com/assets.00/file-type-sass-icon-512x384-8hcyam61.png" />
-<img align="left" alt="Git" width="26px" src="https://static-00.iconduck.com/assets.00/git-icon-512x512-61zfmvxk.png" />
+<img align="left" alt="Bootstrap" width="34px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" />
+<img align="left" alt="Bulma" width="20px" src="https://static-00.iconduck.com/assets.00/bulma-icon-352x512-bqm2l7bo.png" />
+<img align="left" alt="Git" width="28px" src="https://static-00.iconduck.com/assets.00/git-icon-512x512-61zfmvxk.png" />
 
 
 <br />
