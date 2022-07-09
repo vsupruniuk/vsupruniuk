@@ -30,6 +30,7 @@
 <img align="left" alt="Bootstrap" width="34px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" />
 <img align="left" alt="Bulma" width="20px" src="https://static-00.iconduck.com/assets.00/bulma-icon-352x512-bqm2l7bo.png" />
 <img align="left" alt="Git" width="28px" src="https://static-00.iconduck.com/assets.00/git-icon-512x512-61zfmvxk.png" />
+<img align="left" alt="Visual Studio Code" width="28px" src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" />
 
 
 <br />
