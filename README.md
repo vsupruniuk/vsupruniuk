@@ -26,11 +26,13 @@
 <img align="left" alt="TypeScript" width="26px" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-512x512-yh0yu3ta.png" />
 <img align="left" alt="HTML" width="26px" src="https://static-00.iconduck.com/assets.00/file-type-html-icon-451x512-vzyw6pa7.png" />
 <img align="left" alt="CSS" width="26px" src="https://static-00.iconduck.com/assets.00/file-type-css-icon-451x512-eftbqujz.png" />
+<img align="left" alt="Git" width="28px" src="https://static-00.iconduck.com/assets.00/git-icon-512x512-61zfmvxk.png" />
+<img align="left" alt="Redux" width="28px" src="https://static-00.iconduck.com/assets.00/redux-original-icon-512x487-gnglwkuf.png" />
 <img align="left" alt="SASS" width="26px" src="https://static-00.iconduck.com/assets.00/file-type-sass-icon-512x384-8hcyam61.png" />
 <img align="left" alt="Bootstrap" width="34px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" />
 <img align="left" alt="Bulma" width="20px" src="https://static-00.iconduck.com/assets.00/bulma-icon-352x512-bqm2l7bo.png" />
-<img align="left" alt="Git" width="28px" src="https://static-00.iconduck.com/assets.00/git-icon-512x512-61zfmvxk.png" />
 <img align="left" alt="Visual Studio Code" width="28px" src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" />
+<img align="left" alt="WebStorm" width="28px" src="https://static-00.iconduck.com/assets.00/webstorm-icon-512x512-lmof1hfg.png" />
 
 
 <br />
