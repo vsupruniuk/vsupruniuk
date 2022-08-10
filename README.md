@@ -31,6 +31,8 @@
 <img align="left" alt="SASS" width="26px" src="https://static-00.iconduck.com/assets.00/file-type-sass-icon-512x384-8hcyam61.png" />
 <img align="left" alt="Bootstrap" width="34px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" />
 <img align="left" alt="Bulma" width="20px" src="https://static-00.iconduck.com/assets.00/bulma-icon-352x512-bqm2l7bo.png" />
+<img align="left" alt="SQL" width="22px" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" />
+<img align="left" alt="PostgreSQL" width="30px" src="https://static-00.iconduck.com/assets.00/postgresql-icon-497x512-wlm3keth.png" />
 <img align="left" alt="Visual Studio Code" width="28px" src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" />
 <img align="left" alt="WebStorm" width="28px" src="https://static-00.iconduck.com/assets.00/webstorm-icon-512x512-lmof1hfg.png" />
 
